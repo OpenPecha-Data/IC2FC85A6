@@ -1,0 +1,27 @@
+id: IC2FC85A6
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-22T14:07:00+00:00'
+last_modified: '2022-06-08T09:02:07.995605+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W2CZ8064
+  title: ལམ་རིམ་ནས་བྱུང་བའི་ཆུང་འབྲིང་གི་དམིགས་རྣམ་རྐང་གྲངས་ཙམ་དུ་སྡེབས་པའི་ཚིགས་བཅད་བརྒྱད་པ་
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    955F:
+      image_group_id: I1PD96638
+      title: ''
+      total_pages: 6
+      order: 1
+      base_file: 955F.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
